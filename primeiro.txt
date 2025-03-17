@@ -1,3 +1,9 @@
+Alterações de commit feitas no editor padrao
+
+
+
 Primeira alteração
 o professor explica muito bem e ele é engraçado ,
  estou gostando muito da materia dele
+ 
+ Utilizando um editor externo.
