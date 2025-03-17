@@ -17,7 +17,7 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 
 
 
-1o-COMMIT
+
 ## 🌱 Tecnologias que estou aprendendo:
 
 - HTML
@@ -28,7 +28,7 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 
 
 
-2o-COMMIT
+
 ## 🎯 Objetivo
 
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
