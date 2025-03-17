@@ -1,10 +1,4 @@
-## 📚 O que você encontrará aqui?
 
-- 📝 Projetos simples e tutoriais
-- 💡 Anotações e dicas
-- 🛠️ Experimentos com código
-
-Nova seção adicionada 
 
 
 # 🚀 Meu Repositório
